@@ -6,6 +6,9 @@
     version="1.0.0">
     <name>LocationPlugin</name>
     <description>Cordova Location Plugin Powerd by Baidu</description>
+	<author email="xw270845509@163.com" href="https://github.com/kaixinhupo">
+        Lian X.W
+    </author>
     <license>Apache 2.0</license>
     <keywords>cordova,location</keywords>
     <repo>https://github.com/kaixinhupo/cordova_location.git</repo>
