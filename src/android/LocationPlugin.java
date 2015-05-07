@@ -76,7 +76,7 @@ public class LocationPlugin extends CordovaPlugin {
 			}
 			JSONObject jo = new JSONObject();
 			try {
-				jo.put("longtitude",  loc.getLongitude());
+				jo.put("longitude",  loc.getLongitude());
 				jo.put("latitude",  loc.getLatitude());
 				jo.put("address", loc.getAddrStr());
 				jo.put("hasRadius ", loc.hasRadius());
