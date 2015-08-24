@@ -15,7 +15,7 @@
 	}, false);
 	
 	function successCallback(data) {
-		//data.longtitude 经度
+		//data.longitude 经度
 		//data.latitude 纬度
 		//data.address 文字描述的地址信息
 		//data.hasRadius 是否有定位精度半径
